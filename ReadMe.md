@@ -17,7 +17,10 @@ Topic 7: Comparison Operators
 
 Topic 8: if elif else Statements
 
-Topic 9: for & while Loops
+Topic 9: for & while Loop
+
+Topic 10: Methods and Function
+(also uploaded a related-program "Three Cup Monte")
 
 (Detailed PDF notes for Python are also uploaded ...!! )
 
