@@ -24,5 +24,7 @@ Topic 10: Methods and Function
 
 Topic 11: Lambda Functions with map and filter 
 
+Topic 12: *args & **kwargs
+
 (Detailed PDF notes for Python are also uploaded ...!! )
 
