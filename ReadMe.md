@@ -26,5 +26,9 @@ Topic 11: Lambda Functions with map and filter
 
 Topic 12: *args & **kwargs
 
+Topic 13: OOPS in Python- Class
+
+Topic 14: Modules and Packages
+
 (Detailed PDF notes for Python are also uploaded ...!! )
 
