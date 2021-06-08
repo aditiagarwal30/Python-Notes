@@ -30,5 +30,12 @@ Topic 13: OOPS in Python- Class
 
 Topic 14: Modules and Packages
 
+Topic 15: Pylint & Unittest
+
+Topic 16: Decorators-Iterators-Generators
+          (Fibonacci using yield)
+
+Topic 17: __main__ & __name__
+
 (Detailed PDF notes for Python are also uploaded ...!! )
 
