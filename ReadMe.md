@@ -22,7 +22,7 @@ Topic 9: for & while Loop
 Topic 10: Methods and Function
 (also uploaded a related-program "Three Cup Monte")
 
-Topic 11: Lambda Functions with map and filter 
+Topic 11: Lambda Functions with map() and filter() 
 
 Topic 12: *args & **kwargs
 
