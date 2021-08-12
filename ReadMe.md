@@ -1,4 +1,4 @@
-# Python Notes 
+
 ## This repo is for my Python notes !
 
 Topic 1: Strings
