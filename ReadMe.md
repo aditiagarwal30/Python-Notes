@@ -20,7 +20,7 @@ Topic 8: if elif else Statements
 Topic 9: for & while Loop
 
 Topic 10: Methods and Function
-(also uploaded a related-program "Three Cup Monte")
+(also uploaded a related-program "Three Cup Monte" )
 
 Topic 11: Lambda Functions with map() and filter() 
 
