@@ -1,5 +1,5 @@
 
-## This repo is for my Python notes !
+## This repo is for my Python notes 
 
 Topic 1: Strings
 
